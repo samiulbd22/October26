@@ -164,7 +164,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,//9050
         running_paid    :0,
-        running_meal    :4,
+        running_meal    :3,
         // method calling
 		//depositDate: new Date("September 15, 2026").getDate(),
         preMonth,
