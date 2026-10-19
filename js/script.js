@@ -93,7 +93,7 @@ const members = {
         post_payable        :3512,
         previous_paid       :5170,
         previous_dining_cost:1575,
-        payment             :{"00/00/26-DBBL":2000},
+        payment             :{"07/10/26-DBBL":2000,"15/10/26-DBBL":500},
         // running month
         stay_cost       :2000,
         garage_cost     :0,
@@ -137,7 +137,7 @@ const members = {
         post_payable        :5364,
         previous_paid       :8500,
         previous_dining_cost:2400,
-        payment             :{"02/10/26-Bkash":500,"012/10/26-bKash":3000},
+        payment             :{"02/10/26-Bkash":500,"012/10/26-bKash":3000,"17/10/26-Cash":1000},
         // running month
         stay_cost       :3500,
         garage_cost     :0,
@@ -158,7 +158,7 @@ const members = {
         post_payable        :7488,
         previous_paid       :7000,
         previous_dining_cost:2835,
-        payment             :undefined,
+        payment             :{"14/10/26-DBBL":4000},
         // running month
         stay_cost       :2800,
         garage_cost     :0,
@@ -265,7 +265,7 @@ const members = {
         post_payable        :3018,
         previous_paid       :6050,
         previous_dining_cost:1701,
-        payment             :{"01/10/26-Cash":510,"07/10/26-Cash":500,"11/10/26-Cash":1500,"12/10/26-Cash":500},
+        payment             :{"01/10/26-Cash":510,"07/10/26-Cash":500,"11/10/26-Cash":1500,"12/10/26-Cash":500,"18/10/26-Cash":1000},
         // running month
         stay_cost       :2500,
         garage_cost     :0,
@@ -287,12 +287,12 @@ const members = {
         post_payable        :0,
         previous_paid       :0,
         previous_dining_cost:0,
-        payment             :{"08/10/26-Cash":1000,"11/10/26-Cash":2000},
+        payment             :{"08/10/26-Cash":1000,"11/10/26-Cash":2000,"16/10/26-Cash":600},
         // running month
         stay_cost       :0,
         garage_cost     :0,
         running_payable :0,
-        running_paid    :3000,
+        running_paid    :3600,
         running_meal    :38,
         // method calling
         preMonth,
