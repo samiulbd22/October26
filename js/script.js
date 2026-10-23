@@ -93,12 +93,12 @@ const members = {
         post_payable        :3512,
         previous_paid       :5170,
         previous_dining_cost:1575,
-        payment             :{"07/10/26-DBBL":2000,"15/10/26-DBBL":500},
+        payment             :{"07/10/26-DBBL":2000,"15/10/26-DBBL":500,"21/10/26-bKash":500,"22/10/26-bKash":300},
         // running month
         stay_cost       :2000,
         garage_cost     :0,
         running_payable :2587,//3512
-        running_paid    :2500,
+        running_paid    :3300,
         running_meal    :23,
 
         //deposit date
@@ -137,15 +137,15 @@ const members = {
         post_payable        :5364,
         previous_paid       :8500,
         previous_dining_cost:2400,
-        payment             :{"02/10/26-Bkash":500,"012/10/26-bKash":3000,"17/10/26-Cash":1000},
+        payment             :{"02/10/26-Bkash":500,"012/10/26-bKash":3000,"17/10/26-Cash":1000,"23/10/26-Cash":500},
         // running month
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :3434,//00
-        running_paid    :4500,
+        running_paid    :5000,
         running_meal    :17,
         // method calling
-		depositDate: new Date("October 20, 2026").getDate(),
+		depositDate: new Date("October 29, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
@@ -201,12 +201,12 @@ const members = {
         post_payable        :3589,
         previous_paid       :6550,
         previous_dining_cost:3245,//59
-        payment             :{"05/10/26-Cash":3500,"06/10/26-Cash":1000},
+        payment             :{"05/10/26-Cash":3500,"06/10/26-Cash":1000,"22/10/26-Cash":500},
         // running month
         stay_cost       :2800,
         garage_cost     :0,
         running_payable :3754,
-        running_paid    :4500,
+        running_paid    :5000,
         running_meal    :35,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
