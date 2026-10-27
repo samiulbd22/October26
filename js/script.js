@@ -122,7 +122,7 @@ const members = {
         garage_cost     :0,
         running_payable :3137,//2514
         running_paid    :5000,
-        running_meal    :32,
+        running_meal    :33,
         // method calling
         depositDate: new Date("October 23, 2026").getDate(),
         preMonth,
@@ -143,7 +143,7 @@ const members = {
         garage_cost     :0,
         running_payable :3434,//00
         running_paid    :5000,
-        running_meal    :23,
+        running_meal    :25,
         // method calling
 		depositDate: new Date("October 27, 2026").getDate(),
         preMonth,
@@ -164,7 +164,7 @@ const members = {
         garage_cost     :0,
         running_payable :6793,//9050
         running_paid    :9000,
-        running_meal    :49,
+        running_meal    :51,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
         preMonth,
@@ -185,7 +185,7 @@ const members = {
         garage_cost     :0,
         running_payable :4564,//4433
         running_paid    :6600,
-        running_meal    :53,
+        running_meal    :55,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
         preMonth,
@@ -207,7 +207,7 @@ const members = {
         garage_cost     :0,
         running_payable :3754,
         running_paid    :5000,
-        running_meal    :39,
+        running_meal    :41,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
         preMonth,
@@ -228,7 +228,7 @@ const members = {
         garage_cost     :0,
         running_payable :3879,//4359
         running_paid    :6000,
-        running_meal    :25,
+        running_meal    :26,
         // method calling
         depositDate: new Date("October 30, 2026").getDate(),
         preMonth,
@@ -293,7 +293,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :3600,
-        running_meal    :52,
+        running_meal    :54,
         // method calling
         preMonth,
         runningDiningCost,
