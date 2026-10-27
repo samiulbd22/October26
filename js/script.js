@@ -121,7 +121,7 @@ const members = {
         stay_cost       :2300,
         garage_cost     :0,
         running_payable :3137,//2514
-        running_paid    :5000,
+        running_paid    :5500,
         running_meal    :33,
         // method calling
         depositDate: new Date("October 23, 2026").getDate(),
@@ -206,7 +206,7 @@ const members = {
         stay_cost       :2800,
         garage_cost     :0,
         running_payable :3754,
-        running_paid    :5000,
+        running_paid    :5500,
         running_meal    :41,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
@@ -227,7 +227,7 @@ const members = {
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :3879,//4359
-        running_paid    :6000,
+        running_paid    :6500,
         running_meal    :26,
         // method calling
         depositDate: new Date("October 30, 2026").getDate(),
