@@ -122,7 +122,7 @@ const members = {
         garage_cost     :0,
         running_payable :3137,//2514
         running_paid    :5500,
-        running_meal    :33,
+        running_meal    :34,
         // method calling
         depositDate: new Date("October 23, 2026").getDate(),
         preMonth,
@@ -143,7 +143,7 @@ const members = {
         garage_cost     :0,
         running_payable :3434,//00
         running_paid    :5000,
-        running_meal    :25,
+        running_meal    :27,
         // method calling
 		depositDate: new Date("October 27, 2026").getDate(),
         preMonth,
@@ -164,7 +164,7 @@ const members = {
         garage_cost     :0,
         running_payable :6793,//9050
         running_paid    :9000,
-        running_meal    :51,
+        running_meal    :53,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
         preMonth,
@@ -185,7 +185,7 @@ const members = {
         garage_cost     :0,
         running_payable :4564,//4433
         running_paid    :6600,
-        running_meal    :55,
+        running_meal    :56,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
         preMonth,
@@ -207,7 +207,7 @@ const members = {
         garage_cost     :0,
         running_payable :3754,
         running_paid    :5500,
-        running_meal    :41,
+        running_meal    :43,
         // method calling
 		depositDate: new Date("October 10, 2026").getDate(),
         preMonth,
@@ -228,7 +228,7 @@ const members = {
         garage_cost     :0,
         running_payable :3879,//4359
         running_paid    :6500,
-        running_meal    :26,
+        running_meal    :27,
         // method calling
         depositDate: new Date("October 30, 2026").getDate(),
         preMonth,
@@ -271,7 +271,7 @@ const members = {
         garage_cost     :0,
         running_payable :1839,//0
         running_paid    :5010,
-        running_meal    :23,
+        running_meal    :24,
         // method calling
 		depositDate: new Date("October 31, 2026").getDate(),
         preMonth,
@@ -293,7 +293,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :3600,
-        running_meal    :54,
+        running_meal    :56,
         // method calling
         preMonth,
         runningDiningCost,
