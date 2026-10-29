@@ -124,7 +124,7 @@ const members = {
         running_paid    :5500,
         running_meal    :35,
         // method calling
-        depositDate: new Date("October 23, 2026").getDate(),
+        depositDate: new Date("October 28, 2026").getDate(),
         preMonth,
         runningDiningCost,
         runningMonth,
