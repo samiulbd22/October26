@@ -98,7 +98,7 @@ const members = {
         stay_cost       :2000,
         garage_cost     :0,
         running_payable :2587,//3512
-        running_paid    :3300,
+        running_paid    :3800,
         running_meal    :25,
 
         //deposit date
